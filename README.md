@@ -16,3 +16,4 @@ Pkg.add("IJulia")
 using IJulia
 notebook()
 ```
+or make sure your anaconda distribution is up to date, open a Jupyter notebook, and select new --> notebook: Julia
