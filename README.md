@@ -1,4 +1,4 @@
-# hello_julia
+# Hello, Julia
 
 An introduction to scientific programming in Julia
 
